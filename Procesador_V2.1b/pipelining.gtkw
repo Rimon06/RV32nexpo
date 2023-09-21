@@ -1,0 +1,52 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Mon Aug 21 03:49:34 2023
+[*]
+[dumpfile] "/home/jfdava/Universidad/1Trabajo de Grado/Proyecto_HDL/Procesador_V2.0b/dump.vcd"
+[dumpfile_mtime] "Mon Aug 21 03:40:32 2023"
+[dumpfile_size] 231702
+[savefile] "/home/jfdava/Universidad/1Trabajo de Grado/Proyecto_HDL/Procesador_V2.0b/pipelining.gtkw"
+[timestart] 89700
+[size] 1000 600
+[pos] -1 -1
+*-13.000000 105300 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] RV32nexpo_tb.
+[sst_width] 196
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 150
+@28
+RV32nexpo_tb.clk
+RV32nexpo_tb.uut.rst
+@24
+RV32nexpo_tb.uut.cycle[63:0]
+@22
+RV32nexpo_tb.uut.F_pc[31:0]
+@28
+RV32nexpo_tb.uut.FD_nop
+@22
+RV32nexpo_tb.uut.FD_pc[31:0]
+RV32nexpo_tb.uut.FD_instr[31:0]
+RV32nexpo_tb.uut.DE_pc[31:0]
+@28
+RV32nexpo_tb.uut.DE_nop
+RV32nexpo_tb.uut.DE_RegWrite
+@22
+RV32nexpo_tb.E_instr[31:0]
+@28
+RV32nexpo_tb.uut.EM_nop
+RV32nexpo_tb.uut.EM_RegWrite
+@22
+RV32nexpo_tb.uut.EM_resultado[31:0]
+@28
+RV32nexpo_tb.uut.MW_nop
+RV32nexpo_tb.uut.MW_RegWrite
+@23
+RV32nexpo_tb.uut.MW_resultado[31:0]
+@28
+RV32nexpo_tb.uut.D_isJAL
+RV32nexpo_tb.uut.D_isJALR
+RV32nexpo_tb.uut.D_isEBREAK
+RV32nexpo_tb.uut.E_JumpOrBranch
+[pattern_trace] 1
+[pattern_trace] 0
